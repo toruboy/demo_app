@@ -16,3 +16,4 @@
 
 # Ignore bundler library
 /vendor/bundle
+/.idea
